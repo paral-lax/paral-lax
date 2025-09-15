@@ -40,11 +40,9 @@
 
 ### discord presence
 
-<!-- Lanyard profile README integration -->
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/000000000000000000?idleMessage=Probably%20Working%20On%20Malware%20Stuff." width="45%">
+  <img src="https://lanyard-profile-readme.vercel.app/api/676767676767676767?idleMessage=Probably%20working%20on%20stupid%20Stuff." width="45%">
   <br>
-  <sub>Replace the Discord ID above to show your live Discord status.</sub>
 </p>
 
 ---

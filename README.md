@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&width=520&lines=Hi+there!;I'm+parallax;+Computer+Science+Student,+Malware+Researcher+%7C+Cybersecurity+enthousiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&width=520&lines=Hi+there!;I'm+parallax;+Computer+Science+Student+%7C+Malware+Researcher" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -35,7 +35,6 @@
 ### featured
 
 - [Wait—is this just a dark room?](https://github.com/paral-lax/Wait-is-this-just-a-dark-room)
-  based on A Dark Room, unfinished project of mine
 
 ---
 

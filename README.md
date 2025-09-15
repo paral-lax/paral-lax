@@ -50,9 +50,8 @@
 <div align="center">
   <h2>GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=paral-lax&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" width="500"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paral-lax&theme=dark&hide_border=true" alt="GitHub Streak" width="500"/>
-  <br><br>
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paral-lax&theme=dark&layout=compact&hide_border=true" alt="GitHub Top Languages" width="500"/>
   <br>
 </div>
